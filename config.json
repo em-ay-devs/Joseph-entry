@@ -1,0 +1,19 @@
+{
+	"api-key": 50aa4778ba704327ee975a13c3875a69,
+
+	"location": {
+		"entity_type": "subzone",
+		"entity_id": 163279,
+		"title": "Burlington, Boston",
+		"latitude": 42.4899730585,
+		"longitude": -71.2064683862,
+		"city_id": 289,
+		"city_name": "Boston",
+		"country_id": 216,
+		"country_name": "United States"
+	},
+
+	"establishment_type": 281,
+
+	
+}
